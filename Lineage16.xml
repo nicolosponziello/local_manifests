@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
+  <project name="Jawor245/DragonTC" path="prebuilts/clang/host/linux-x86/8.0" remote="github" revision="pie" />
   <project name="Jawor245/gemini" path="device/xiaomi/gemini" remote="github" />
   <project name="Jawor245/kernel" path="kernel/xiaomi/msm8996" remote="github" revision="pie-eas" />
   <remove-project name="LineageOS/android_vendor_lineage"/>
