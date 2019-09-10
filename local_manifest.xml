@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <manifest>
+   <project path="device/xiaomi/gemini" name="nicolosponziello/android_device_xiaomi_gemini" remote="github" revision="master"/>
+   <project path="device/xiaomi/msm8996-common" name="nicolosponziello/msm8996-common" remote="github" revision="master"/>
+   <project path="kernel/xiaomi/msm8996" name="nicolosponziello/msm-4.4" remote="github" revision="pie"/>
+   <project path="vendor/xiaomi" name="nicolosponziello/vendor_xiaomi_new" remote="github" revision="lineage-16.0"/>
+   <project path="packages/resources/devicesettings" name="LineageOS/android_packages_resources_devicesettings" remote="github" revision="lineage-16.0"/>
+ </manifest>
